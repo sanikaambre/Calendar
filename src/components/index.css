@@ -1,0 +1,16 @@
+.popoverStyle {
+    z-index: 99999 !important;
+    background-color: #FFAE42;
+}
+
+a {
+    color: #212529 !important;
+}
+
+.custom-event {
+    background-color: #FF862F;
+    color: #ffffff;
+}
+body{
+    background-color: #FEFAEF;
+}
